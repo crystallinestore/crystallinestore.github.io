@@ -1,0 +1,10 @@
+[
+  {
+    "Title": "Prism Launcher",
+    "Description": "Minecraft Launcher",
+    "IconColor": "#9370DB",
+    "Category": "Games",
+    "DownloadUrl": "https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.5/PrismLauncher-Windows-MSVC-Setup-10.0.5.exe",
+    "LocalPath": "C:\\User\\Public\\Documents\\prismlauncher.exe"
+  }
+]

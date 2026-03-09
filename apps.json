@@ -6,5 +6,13 @@
     "Category": "Games",
     "DownloadUrl": "https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.5/PrismLauncher-Windows-MSVC-Setup-10.0.5.exe",
     "LocalPath": "C:\\User\\Public\\Documents\\prismlauncher.exe"
+  },
+  {
+    "Title": "7-Zip",
+    "Description": "7-Zip is a file archiver with a high compression ratio.",
+    "IconColor": "#0000FF",
+    "Category": "Tools",
+    "DownloadUrl": "https://7-zip.org/a/7z2600-x64.exe",
+    "LocalPath": "C:\\User\\Public\\Documents\\7zip-setup.exe"
   }
 ]

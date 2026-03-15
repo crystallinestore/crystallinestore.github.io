@@ -3,6 +3,7 @@
     "Title": "Prism Launcher",
     "Description": "Minecraft Launcher",
     "IconColor": "#9370DB",
+    "IconUrl": "https://avatars.githubusercontent.com/u/116031705?s=280&v=4",
     "Category": "Games",
     "DownloadUrl": "https://github.com/PrismLauncher/PrismLauncher/releases/download/10.0.5/PrismLauncher-Windows-MSVC-Setup-10.0.5.exe",
     "LocalPath": "C:\\User\\Public\\Documents\\prismlauncher.exe"
@@ -11,8 +12,18 @@
     "Title": "7-Zip",
     "Description": "7-Zip is a file archiver with a high compression ratio.",
     "IconColor": "#0000FF",
+    "IconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREpTQVN0tqVJkZ5PEdjCy4vqET9A0tS7Rhjg&s",
     "Category": "Tools",
     "DownloadUrl": "https://7-zip.org/a/7z2600-x64.exe",
     "LocalPath": "C:\\User\\Public\\Documents\\7zip-setup.exe"
+  },
+  {
+    "Title": "Mullvad VPN",
+    "Description": "Free the internet from mass surveillance and censorship",
+    "IconColor": "#FFFF00",
+    "IconUrl": "https://play-lh.googleusercontent.com/X3V8MJMnYasSOTLeFAN-EX8vKrckT2kxnPSeKRyGEU77pa-PVOjvKSvMdcOhnHX9aEg",
+    "Category": "Tools",
+    "DownloadUrl": "https://mullvad.net/en/download/installer/exe/latest",
+    "LocalPath": "C:\\User\\Public\\Documents\\mullvadvpn.exe"
   }
 ]

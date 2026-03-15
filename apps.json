@@ -55,7 +55,7 @@
   },
   {
     "Title": "Steam",
-    "Description": "hooks players immediately with a strong, evocative opening sentence that captures the game's unique vibe. It should clearly define the genre, core gameplay loop, and main features using bullet points for readability. Weave together tone and key selling points to attract the target audience.",
+    "Description": "hooks players immediately with a strong, evocative opening sentence that captures the game's unique vibe...",
     "IconColor": "#b5b7b9",
     "IconUrl": "https://mmos.com/wp-content/uploads/2021/07/steam-logo-welcome-banner.jpg",
     "Category": "Games",
@@ -91,7 +91,7 @@
   },
   {
     "Title": "Tor Browser",
-    "Description": "The Tor Browser is a free, open-source web browser designed for maximum privacy and anonymity, allowing users to surf the internet, access blocked content, and visit dark web (.onion) sites without being tracked.",
+    "Description": "The Tor Browser is a free, open-source web browser designed for maximum privacy and anonymity, allowing users to surf the internet, access blocked content..",
     "IconColor": "#a443ec",
     "IconUrl": "https://www.torproject.org/static/images/tor-project-logo-onions.png",
     "Category": "Browser",
@@ -100,7 +100,7 @@
   },
   {
     "Title": "ExplorerPatcher",
-    "Description": "ExplorerPatcher is an open-source utility designed to restore classic Windows functionality to Windows 11. It allows users to bring back the Windows 10 taskbar, classic start menu, and file explorer design, while offering extensive customization options for taskbar icons, behavior, and system tray management, often by hooking into the Windows GUI.",
+    "Description": "ExplorerPatcher is an open-source utility designed to restore classic Windows functionality to Windows 11. It allows users to bring back the Windows 10 taskbar and more...",
     "IconColor": "#b8b46a",
     "IconUrl": "https://explorerpatcher.net/wp-content/uploads/2025/10/cropped-Explorer-Patcher-logo-2-scaled-1.png",
     "Category": "Tools",
@@ -109,7 +109,7 @@
   },
   {
     "Title": "Jetbrains IntelliJ IDEA Community",
-    "Description": "IntelliJ IDEA is a premier Integrated Development Environment (IDE) by JetBrains for Java and Kotlin, designed to maximize developer productivity. It offers intelligent code completion, advanced code analysis, and powerful refactoring tools to automate routine tasks, while providing support for various JVM-based languages and frameworks.",
+    "Description": "IntelliJ IDEA is a premier Integrated Development Environment (IDE) by JetBrains for Java and Kotlin...",
     "IconColor": "#fd5c35",
     "IconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg/1280px-JetBrains_IntelliJ_IDEA_Product_Logo.svg.png",
     "Category": "Coding",
@@ -118,7 +118,7 @@
   },
   {
     "Title": "Jetbrains PyCharm IDEA Community",
-    "Description": "PyCharm is a dedicated Python Integrated Development Environment (IDE) providing a wide range of essential tools for Python developers, tightly integrated to create a convenient environment for productive Python, web, and data science development.",
+    "Description": "PyCharm is a dedicated Python Integrated Development Environment (IDE) providing a wide range of essential tools for Python developers...",
     "IconColor": "#00c4f4",
     "IconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/JetBrains_PyCharm_Product_Logo.svg",
     "Category": "Coding",
@@ -136,7 +136,7 @@
   },
   {
     "Title": "Jetbrains Toolbox",
-    "Description": "The JetBrains Toolbox App is a free desktop tool manager that simplifies installing, updating, and managing multiple JetBrains IDEs, such as IntelliJ IDEA, PyCharm, and WebStorm. It enables quick access to projects, supports multiple versions of IDEs, and manages remote development environments on Windows, macOS, and Linux.",
+    "Description": "The JetBrains Toolbox App is a free desktop tool manager that simplifies installing, updating, and managing multiple JetBrains IDEs, such as IntelliJ IDEA, PyCharm, and WebStorm...",
     "IconColor": "#ff3064",
     "IconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzJxXBhwKTFqx-OQe6YhP06z2o4CcReCrn0A&s",
     "Category": "Coding",
@@ -145,7 +145,7 @@
   },
   {
     "Title": "Signal",
-    "Description": "A signal is a physically measurable quantity—such as voltage, current, or electromagnetic waves—that varies over time or space to convey information, data, or instructions. It acts as a detectable, time-dependent change (e.g., sound, gesture, electrical pulse) used to communicate, warn, or control, with common examples including audio signals, communication, and traffic signals.",
+    "Description": "A signal is a physically measurable quantity—such as voltage, current, or electromagnetic waves—that varies over time or space to convey information, data, or instructions...",
     "IconColor": "#3b45fd",
     "IconUrl": "https://s3-alpha.figma.com/hub/file/6887621453/8f9c82e1-9a46-4706-bf98-2b01f2100342-cover.png",
     "Category": "Messenger",

@@ -25,5 +25,14 @@
     "Category": "Tools",
     "DownloadUrl": "https://mullvad.net/en/download/installer/exe/latest",
     "LocalPath": "C:\\User\\Public\\Documents\\mullvadvpn.exe"
+  },
+  {
+    "Title": "Discord",
+    "Description": "Modern Messenger for Gamers",
+    "IconColor": "#7289da",
+    "IconUrl": "https://www.insidehighered.com/sites/default/files/2023-04/Discord-Symbol.png",
+    "Category": "Messenger",
+    "DownloadUrl": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x64",
+    "LocalPath": "C:\\User\\Public\\Documents\\discord-setup.exe"
   }
 ]
